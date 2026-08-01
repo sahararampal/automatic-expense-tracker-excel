@@ -1,14 +1,15 @@
-# Sales Performance Dashboard (Excel)
+# Automatic Expense Tracker Dashboard (Excel)
 
 ## Overview
-An interactive Sales Performance Dashboard built using Microsoft Excel to analyse sales performance and present key business insights.
+An interactive expense tracking dashboard built using Microsoft Excel to monitor and analyse personal expenses across multiple spending categories.
 
 ## Features
+- Automatic expense tracking
+- Category-wise expense analysis
 - Interactive dashboard
-- Revenue analysis
-- Sales performance tracking
 - KPI reporting
-- Data visualization using Excel charts and Pivot Tables
+- Pie chart and bar chart visualizations
+- Date-wise expense monitoring
 
 ## Tools Used
 - Microsoft Excel
@@ -17,5 +18,6 @@ An interactive Sales Performance Dashboard built using Microsoft Excel to analys
 - Slicers
 - Conditional Formatting
 
-## Project File
-Sales_Performance_Dashboard.xlsx
+## Dashboard Preview
+
+![Dashboard](dashboard-1.png)
